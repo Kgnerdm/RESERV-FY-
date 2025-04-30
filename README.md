@@ -1,32 +1,32 @@
-# Reservify – Smart Appointment Scheduling System
+Reservify – Smart Appointment Scheduling System
+Reservify is a web-based reservation and appointment management platform designed for service-oriented businesses such as barbershops, dental clinics, fitness studios, and freelance professionals.
+It allows customers to view availability, book time slots, and receive confirmations instantly, while providing administrators with full control over scheduling, notifications, and service flow.
 
-**Reservify** is a web-based reservation and appointment management platform designed for service-driven businesses such as barbershops, dental clinics, fitness studios, and freelance professionals.  
-It enables customers to view availability, book time slots, and receive confirmations instantly—while giving administrators complete control over schedule planning, notifications, and service flow.
+Technologies Used
+Frontend: React.js, Tailwind CSS
 
----
+Backend: Node.js + Express
 
-## 🛠 Technologies Used
+Database: PostgreSQL
 
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js + Express  
-- **Database:** PostgreSQL  
-- **Version Control & Collaboration:** Git, GitHub Issues, Project Board  
-- **Documentation:** Markdown (`.md`), Word, Excel  
-- **Deployment:** (Optional) Vercel / Render / Railway (future scope)
+Version Control & Collaboration: Git, GitHub Issues, Project Board
 
----
+Documentation: Markdown (.md), Word, Excel
 
-## 👥 Team Members
+Deployment (optional): Vercel, Render, or Railway
 
-- **Kağan Erdem** – Frontend Developer & Project Manager  
-- **Ahmet Hilmi Büber** – Backend Developer & QA  
-- **Recep Buğra Sarıkaya** – API Integration & Deployment
+Team Members
+Kağan Erdem – Frontend Developer and Project Manager
 
----
+Ahmet Hilmi Büber – Backend Developer and QA
 
-## 🎯 Project Objectives
+Recep Buğra Sarıkaya – API Integration and Deployment
 
-- Apply agile-based project management methodologies (WBS, scheduling, resource planning)
-- Build a functional, user-friendly scheduling system
-- Ensure traceability via GitHub Issues, commits, and markdown documentation
-- Simulate real-world teamwork under academic constraints
+Project Objectives
+Apply agile-based project management methodologies such as work breakdown structure (WBS), scheduling, and resource planning
+
+Build a functional and user-friendly appointment scheduling system
+
+Maintain full traceability through GitHub Issues, commits, and documentation
+
+Simulate real-world teamwork within an academic project framework
