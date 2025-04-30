@@ -16,11 +16,11 @@ Documentation: Markdown (.md), Word, Excel
 Deployment (optional): Vercel, Render, or Railway
 
 Team Members
-Kağan Erdem – Frontend Developer and Project Manager
+Kağan Erdem – 210402040-Frontend Developer and Project Manager
 
-Ahmet Hilmi Büber – Backend Developer and QA
+Ahmet Hilmi Büber –210401005 - Backend Developer and QA
 
-Recep Buğra Sarıkaya – API Integration and Deployment
+Recep Buğra Sarıkaya –221402005- API Integration and Deployment
 
 Project Objectives
 Apply agile-based project management methodologies such as work breakdown structure (WBS), scheduling, and resource planning
